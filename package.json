@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@craco/craco": "^6.3.0",
     "@heroicons/react": "^1.0.4",
     "@next-auth/firebase-adapter": "^0.1.3",
     "firebase": "^9.0.2",
